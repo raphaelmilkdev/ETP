@@ -5,3 +5,5 @@ Buying Metaverse ETP Coin has been possible since the ICO 2016. The cryptocurren
 
 ## How to use??
 Run the batch file thats it but make sure replace the Wallet with yours. You can check the mining progress on your dashboard on 2miners
+
+## NVIDIA ONLY!
